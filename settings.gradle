@@ -1,0 +1,2 @@
+rootProject.name='androidfingerprintauthentication'
+include ':app'
